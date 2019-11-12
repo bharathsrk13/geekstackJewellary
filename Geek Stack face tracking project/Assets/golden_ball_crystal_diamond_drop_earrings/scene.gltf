@@ -1,0 +1,480 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.3181999921798706,
+        11.248200416564941,
+        15.006899833679199
+      ],
+      "min": [
+        -0.8880000114440918,
+        -1.9297000169754028,
+        -0.4041999876499176
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99995797872543335,
+        0.99989873170852661,
+        0.99998766183853149
+      ],
+      "min": [
+        -0.99997961521148682,
+        -0.99996018409729004,
+        -0.99925047159194946
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 65532,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 41862,
+      "max": [
+        1.0369999408721924,
+        11.365900039672852,
+        7.1817998886108398
+      ],
+      "min": [
+        -0.60790002346038818,
+        -1.8540999889373779,
+        -0.49079999327659607
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2075112,
+      "componentType": 5126,
+      "count": 41862,
+      "max": [
+        0.99998849630355835,
+        0.99993962049484253,
+        0.99908113479614258
+      ],
+      "min": [
+        -0.99988257884979248,
+        -0.99973380565643311,
+        -0.99991333484649658
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 262128,
+      "componentType": 5125,
+      "count": 41862,
+      "max": [
+        41861
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2577456,
+      "componentType": 5126,
+      "count": 1401,
+      "max": [
+        62.000999450683594,
+        -8,
+        98.000999450683594
+      ],
+      "min": [
+        22,
+        -48.000999450683594,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2594268,
+      "componentType": 5126,
+      "count": 1401,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 429576,
+      "componentType": 5125,
+      "count": 8418,
+      "max": [
+        1400
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "DineshThennarasan (https://sketchfab.com/dineshthennarasan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/863d3b5c1a714cfb88dc01c7ea0fbcfe",
+      "title": "Golden Ball Crystal Diamond Drop Earrings"
+    },
+    "generator": "Sketchfab-3.18.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 463248,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2611080,
+      "byteOffset": 463248,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3074328,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0.87136711919999998,
+            0.71569350050000002,
+            0.19120168269999999
+          ]
+        }
+      },
+      "name": "Material.001"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0.87136711919999998,
+            0.71569350050000002,
+            0.19120168269999999
+          ]
+        }
+      },
+      "name": "Material.002"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hook for earring_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Hook for earring_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "EARRING2_Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "c117744f5dae462ca426ac0b6af3c3ad.fbx"
+    },
+    {
+      "children": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        2.7612759772448912,
+        -2.0022971606079411e-15,
+        17.822452356247659,
+        0,
+        17.82245235624401,
+        -1.1538089854743873e-05,
+        -2.7612759772443236,
+        0,
+        1.1402053582419008e-05,
+        18.03508949279416,
+        -1.7665479463559847e-06,
+        0,
+        248.35458374023438,
+        499.84442138671875,
+        166.20164489746094,
+        1
+      ],
+      "name": "Hook for earring"
+    },
+    {
+      "mesh": 0,
+      "name": "Hook for earring_Material.001_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Hook for earring_Material.001_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        5.9638714790344238,
+        0,
+        0,
+        0,
+        0,
+        -9.7163799316985489e-07,
+        -5.9638714790343448,
+        0,
+        0,
+        5.9638714790343448,
+        -9.7163799316985489e-07,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "EARRING2"
+    },
+    {
+      "mesh": 2,
+      "name": "EARRING2_Material.002_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -29.08647719990347,
+        -5.5189064575668629,
+        -95.517119101714371,
+        0,
+        56.639309131094492,
+        79.467234285632031,
+        -21.839123978419661,
+        0,
+        77.110087759933748,
+        -60.452463565620441,
+        -19.988346967737169,
+        0,
+        407.62454223632812,
+        590.38623046875,
+        -100.54539489746094,
+        1
+      ],
+      "name": "Lamp"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        -65.155832803290963,
+        -44.527135765708579,
+        -61.417030473735487,
+        0,
+        -32.40134137821245,
+        89.539574512336159,
+        -30.542088974418615,
+        0,
+        68.592054721299746,
+        -1.0718647115348782e-05,
+        -72.767633623962695,
+        0,
+        748.1131591796875,
+        534.36651611328125,
+        650.76397705078125,
+        1
+      ],
+      "name": "Camera"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
